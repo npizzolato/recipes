@@ -1,7 +1,5 @@
 # Tamago Kake Gohan (Japanese-Style Rice With Egg)
 
-![](/images/tamago-kake-gohan/main.webp)
-
 A very simple breakfast dish with featuring rice, eggs, and very little else. A nice, light, low-maintenance brakfast that comes together in just a few minutes. 
 
 A recipe taken from J. Kenji Lopez-Alt. Original recipe at https://www.seriouseats.com/tamago-kake-gohan-egg-rice-tkg-recipe-breakfast. He also has a [YouTube video](https://www.youtube.com/watch?v=nrDLLhqUXdc). 
@@ -14,21 +12,11 @@ A recipe taken from J. Kenji Lopez-Alt. Original recipe at https://www.seriousea
 - 1/2 teaspoon mirin (optional)
 - Pinch kosher salt, plus more to taste
 - Pinch MSG powder, such as Aji-no-moto or Accent (optional)
-- Pinch Hondashi (optional; see note)
-- Furikake to taste (optional; see note)
+- Furikake to taste (optional)
 - Thinly sliced or torn nori to taste (optional)
-
-### Notes
-
-Hondashi is powdered dashi that can be found in any Japanese market and most well-stocked supermarkets. Furikake is a seasoning mixture typically made with seaweed, dried sweetened bonito, and sesame seeds, among other ingredients. It can be found in any Japanese market. 
 
 ## Instructions
 
 1. Place rice in a bowl and make a shallow indentation in the center. Break the whole egg into the center. Season with 1/2 teaspoon soy sauce, 1/2 teaspoon mirin (if using), a pinch of salt, a pinch of MSG (if using), and a pinch of Hondashi (if using). 
-![](/images/tamago-kake-gohan/step1.webp)
-
 2. Stir vigorously with chopsticks to incorporate egg; it should become pale yellow, frothy, and fluffy in texture. Taste and adjust seasonings as necessary. 
-![](/images/tamago-kake-gohan/step2.webp)
-
 3. Sprinkle with furikake and nori (if using), make a small indentation in the top, and add the other egg yolk (if using). Serve immediately. 
-![](/images/tamago-kake-gohan/step3.webp)
