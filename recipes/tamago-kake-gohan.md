@@ -2,7 +2,7 @@
 
 A very simple breakfast dish with featuring rice, eggs, and very little else. A nice, light, low-maintenance brakfast that comes together in just a few minutes. 
 
-A recipe taken from J. Kenji Lopez-Alt. Original recipe at https://www.seriouseats.com/tamago-kake-gohan-egg-rice-tkg-recipe-breakfast. He also has a [YouTube video](https://www.youtube.com/watch?v=nrDLLhqUXdc). 
+A recipe taken from J. Kenji Lopez-Alt. Original recipe at [https://www.seriouseats.com/tamago-kake-gohan-egg-rice-tkg-recipe-breakfast](https://www.seriouseats.com/tamago-kake-gohan-egg-rice-tkg-recipe-breakfast).
 
 ## Ingredients
 
