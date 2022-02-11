@@ -12,6 +12,7 @@
 ## Side Dishes
 
 - [Coquille](/recipes/?recipe=coquille)
+- [Tofu with Onion, Garlic, and Soy Sauce](/recipes/?recipe=tofu-onion-garlic)
 
 ## Sauces
 
