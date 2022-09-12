@@ -9,6 +9,7 @@
 - [Broccoli in an Oyster Sauce](/recipes/?recipe=brocolli-oyster-sauce)
 - [Classic Chili](/recipes/?recipe=classic-chili)
 - [Kimchi Fried Rice](/recipes/?recipe=kimchi-fried-rice)
+- [Japanese Curry](/recipes/?recipe=japanese-curry)
 
 ## Side Dishes
 
