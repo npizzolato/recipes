@@ -10,6 +10,7 @@
 - [Classic Chili](/recipes/?recipe=classic-chili)
 - [Kimchi Fried Rice](/recipes/?recipe=kimchi-fried-rice)
 - [Japanese Curry](/recipes/?recipe=japanese-curry)
+- [Oyakodon](/recipes?recipe=oyakodon)
 
 ## Side Dishes
 
