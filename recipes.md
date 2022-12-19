@@ -12,7 +12,7 @@
 - [Japanese Curry](/recipes/?recipe=japanese-curry)
 - [Orzo with Spinach](/recipes/?recipe=orzo-spinach)
 - [Oyakodon](/recipes?recipe=oyakodon)
-- [Pasta with Tomatoes](/recipe?recipe=pasta-tomatoes)
+- [Pasta with Tomatoes](/recipes/?recipe=pasta-tomatoes)
 
 ## Salads
 - [Spinach Salad](/recipes/?recipe=spinach-salad)
