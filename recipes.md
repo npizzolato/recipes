@@ -14,6 +14,7 @@
 - [Pasta with Tomatoes](/recipes/?recipe=pasta-tomatoes)
 
 ## Salads
+- [Fruit Salad](/recipes/?fruit-salad)
 - [Spinach Salad](/recipes/?recipe=spinach-salad)
 - [Summer Salad](/recipes/?recipe=summer-salad)
 
