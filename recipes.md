@@ -28,3 +28,4 @@
 ## Desserts
 
 - [Pumpkin Torte](/recipes/?recipe=pumpkin-torte)
+- [Roasted Pecans](/recipes/?recipe=roasted-pecans)
