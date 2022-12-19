@@ -11,6 +11,7 @@
 - [Kimchi Fried Rice](/recipes/?recipe=kimchi-fried-rice)
 - [Japanese Curry](/recipes/?recipe=japanese-curry)
 - [Oyakodon](/recipes?recipe=oyakodon)
+- [Pasta with Tomatoes](/recipe?recipe=pasta-tomatoes)
 
 ## Side Dishes
 
