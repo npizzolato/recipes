@@ -23,3 +23,7 @@
 - [Babish's Marinara Sauce](/recipes/?recipe=marinara-sauce-babish)
 - [Dad's Marinara Sauce](/recipes/?recipe=marinara-sauce-dad)
 - [Teriyaki Sauce](/recipes/?recipe=teriyaki-sauce)
+
+## Desserts
+
+- [Pumpkin Torte](/recipes/?recipe=pumpkin-torte)
