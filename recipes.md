@@ -10,6 +10,7 @@
 - [Classic Chili](/recipes/?recipe=classic-chili)
 - [Kimchi Fried Rice](/recipes/?recipe=kimchi-fried-rice)
 - [Japanese Curry](/recipes/?recipe=japanese-curry)
+- [Orzo with Spinach](/recipes/?recipe=orzo-spinach)
 - [Oyakodon](/recipes?recipe=oyakodon)
 - [Pasta with Tomatoes](/recipe?recipe=pasta-tomatoes)
 
