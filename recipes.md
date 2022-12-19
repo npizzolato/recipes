@@ -17,6 +17,7 @@
 ## Side Dishes
 
 - [Coquille](/recipes/?recipe=coquille)
+- [Summer Salad](/recipes/?recipe=summer-salad)
 - [Texas Caviar](/recipes?recipe=texas-caviar)
 - [Tofu with Onion, Garlic, and Soy Sauce](/recipes/?recipe=tofu-onion-garlic)
 
