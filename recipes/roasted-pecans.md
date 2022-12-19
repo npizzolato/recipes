@@ -2,6 +2,8 @@
 
 A dessert made with roasted pecans. A good snack in the winter. 
 
+Recipe from Mom's recipe book.
+
 ## Ingredients
 
 - 4 cups of pecans, shelled

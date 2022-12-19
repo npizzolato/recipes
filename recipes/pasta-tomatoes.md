@@ -2,6 +2,8 @@
 
 Simple pasta dish made in one pan with fresh tomatoes. 
 
+Recipe from Mom's recipe book.
+
 ## Ingredients
 
 - 6 cloves garlic

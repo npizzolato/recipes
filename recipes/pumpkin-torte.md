@@ -1,6 +1,6 @@
 # Pumpkin Torte
 
-A pumpkin torte that my mom makes during Thanksgiving. 
+A pumpkin torte that my mom makes during Thanksgiving. Recipe from Mom's recipe book.
 
 Cooked in a 9"x13" pan.
 
