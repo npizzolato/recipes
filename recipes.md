@@ -14,10 +14,13 @@
 - [Oyakodon](/recipes?recipe=oyakodon)
 - [Pasta with Tomatoes](/recipe?recipe=pasta-tomatoes)
 
+## Salads
+- [Spinach Salad](/recipes/?recipe=spinach-salad)
+- [Summer Salad](/recipes/?recipe=summer-salad)
+
 ## Side Dishes
 
 - [Coquille](/recipes/?recipe=coquille)
-- [Summer Salad](/recipes/?recipe=summer-salad)
 - [Texas Caviar](/recipes?recipe=texas-caviar)
 - [Tofu with Onion, Garlic, and Soy Sauce](/recipes/?recipe=tofu-onion-garlic)
 
