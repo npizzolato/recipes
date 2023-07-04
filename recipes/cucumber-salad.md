@@ -1,4 +1,4 @@
-# Coquille
+# Cucumber Salad
 
 A light and refreshing salad, perfect for hot summer days. The cayenne gives it a noticeable, but not overpowering, heat at the end. 
 
