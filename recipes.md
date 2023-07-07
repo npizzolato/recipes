@@ -22,6 +22,8 @@
 
 - [Coquille](/recipes/?recipe=coquille)
 - [Cucumber Salad](/recipes?recipe=cucumber-salad)
+- [Mussles](/recipes?recipe=mussels)
+- [Octopus](/recipes?recipe=octopus)
 - [Orzo with Spinach](/recipes/?recipe=orzo-spinach)
 - [Texas Caviar](/recipes?recipe=texas-caviar)
 - [Tofu with Onion, Garlic, and Soy Sauce](/recipes/?recipe=tofu-onion-garlic)
