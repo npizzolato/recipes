@@ -10,6 +10,7 @@
 - [Classic Chili](/recipes/?recipe=classic-chili)
 - [Kimchi Fried Rice](/recipes/?recipe=kimchi-fried-rice)
 - [Japanese Curry](/recipes/?recipe=japanese-curry)
+- [Japanese Curry (Anthony's Recipe)](/recipes/?recipe=japanese-curry-anthony)
 - [Oyakodon](/recipes?recipe=oyakodon)
 - [Pasta with Tomatoes](/recipes/?recipe=pasta-tomatoes)
 
