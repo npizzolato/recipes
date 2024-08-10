@@ -32,6 +32,7 @@
 
 - [Babish's Marinara Sauce](/recipes/?recipe=marinara-sauce-babish)
 - [Dad's Marinara Sauce](/recipes/?recipe=marinara-sauce-dad)
+- [Pesto Sauce](/recipes/?recipe=pesto-sauce)
 - [Teriyaki Sauce](/recipes/?recipe=teriyaki-sauce)
 
 ## Desserts
