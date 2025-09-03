@@ -23,6 +23,7 @@
 
 - [Coquille](/recipes/?recipe=coquille)
 - [Cucumber Salad](/recipes?recipe=cucumber-salad)
+- [Garlic Bread](/recipes?recipe=garlic-bread)
 - [Mussles](/recipes?recipe=mussels)
 - [Octopus](/recipes?recipe=octopus)
 - [Orzo with Spinach](/recipes/?recipe=orzo-spinach)
